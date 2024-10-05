@@ -1,5 +1,4 @@
 import React from "react";
-import "./../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
 import Navbar from "./components/Navbar";
@@ -9,7 +8,6 @@ export default function App() {
     <>
       <Navbar/>
     <div className="container">
- 
       <div className="row">
         <div className="col-lg-6 col-sm-12">
           <Login />
