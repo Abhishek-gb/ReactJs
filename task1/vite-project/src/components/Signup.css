@@ -1,0 +1,26 @@
+.Signup{
+  border: 1px solid black;
+  margin-top: 200px;
+  width: 400px;
+  border-radius: 10PX;
+  background-color: aqua;           
+}
+.Signup input{
+  width: 100%;
+}
+/* .Signup h1{
+  font-family: 'Times New Roman';
+} */
+.Signup label{
+  font-family: sans-serif;
+}
+.Signup button{
+  margin: 20px;
+  width: 50%;
+  margin-left: 100px;
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+}
+

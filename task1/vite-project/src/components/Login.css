@@ -1,0 +1,23 @@
+.Login{
+  border: 1px solid black;
+  margin-top: 200px;
+  width: 400px;
+  border-radius: 10PX;
+  background-color: aqua;           
+}
+.Login input{
+  width: 100%;
+}
+.Login label{
+  font-family: sans-serif;
+}
+.Login button{
+  margin: 20px;
+  width: 50%;
+  margin-left: 100px;
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+}
+
